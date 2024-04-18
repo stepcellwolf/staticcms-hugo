@@ -11,6 +11,12 @@
       "name": "products",
       "route": "/site/content/products",
       "template": ""
+    },
+    {
+      "id": "content",
+      "name": "content",
+      "route": "/site/content",
+      "template": ""
     }
   ],
   "templates": []
