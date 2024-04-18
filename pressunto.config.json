@@ -5,6 +5,12 @@
       "name": "post",
       "route": "/site/content/post",
       "template": ""
+    },
+    {
+      "id": "products",
+      "name": "products",
+      "route": "/site/content/products",
+      "template": ""
     }
   ],
   "templates": []
