@@ -17,6 +17,12 @@
       "name": "content",
       "route": "/site/content",
       "template": ""
+    },
+    {
+      "id": "values",
+      "name": "values",
+      "route": "/site/content/values",
+      "template": ""
     }
   ],
   "templates": []
